@@ -9,7 +9,10 @@ from keras.preprocessing.image import *
 
 
 
-basedir = "/ext/Data/distracted_driver_detection/"
+# basedir = "/ext/Data/distracted_driver_detection/"
+# basedir = "F:\BBBBBBBBBBBBBBBBB\Datas"
+basedir = "E:\\JupyterWorkSpace\\BBBBBBS"
+
 subdir = "train"
 
 model_image_size = 224

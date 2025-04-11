@@ -9,3 +9,8 @@ csv/
 ~*
 
 logs/
+
+
+test/
+train/
+valid/
